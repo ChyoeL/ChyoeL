@@ -60,7 +60,7 @@ Website profil personal dengan tema **hitam-violet gothic** — hero section, ab
 
 <br>
 
-## 📊 Stats
+<div align="center"><img src="stats-header.svg" height="70"/></div>
 
 <div align="center">
 
