@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:3c096c,100:8a2be2&height=200&section=header&text=ChyoeL&fontSize=60&fontColor=e0aaff&animation=fadeIn&fontAlignY=35&desc=Fabric%20Modder%20%7C%20Kotlin%20%26%20Android%20Dev%20%7C%20Web%20Dev&descAlignY=55&descAlign=50" width="100%"/>
+<img src="banner.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=22&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=Minecraft+Fabric+Modder;Kotlin+%26+Android+Developer;Crafting+Dark+Aesthetic+Experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=22&duration=3000&pause=1000&color=A01428&background=00000000&center=true&vCenter=true&width=600&lines=Minecraft+Fabric+Modder;Kotlin+%26+Android+Developer;Crafting+Dark+Aesthetic+Experiences" alt="Typing SVG" />
 
 </div>
 
@@ -23,13 +23,13 @@ Developer yang bergerak di dunia **game modding**, **Android development**, dan 
 
 <div align="center">
 
-![Kotlin](https://img.shields.io/badge/Kotlin-8A2BE2?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-3C096C?style=for-the-badge&logo=openjdk&logoColor=white)
-![Fabric MC](https://img.shields.io/badge/Fabric%20MC-C77DFF?style=for-the-badge&logo=minecraft&logoColor=black)
-![Android](https://img.shields.io/badge/Android-0D0221?style=for-the-badge&logo=android&logoColor=8A2BE2)
-![HTML5](https://img.shields.io/badge/HTML5-8A2BE2?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-3C096C?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-C77DFF?style=for-the-badge&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-A01428?style=for-the-badge&logo=kotlin&logoColor=F5F5F5)
+![Java](https://img.shields.io/badge/Java-640514?style=for-the-badge&logo=openjdk&logoColor=F5F5F5)
+![Fabric MC](https://img.shields.io/badge/Fabric%20MC-C81B34?style=for-the-badge&logo=minecraft&logoColor=060606)
+![Android](https://img.shields.io/badge/Android-060606?style=for-the-badge&logo=android&logoColor=A01428)
+![HTML5](https://img.shields.io/badge/HTML5-A01428?style=for-the-badge&logo=html5&logoColor=F5F5F5)
+![CSS3](https://img.shields.io/badge/CSS3-640514?style=for-the-badge&logo=css3&logoColor=F5F5F5)
+![JavaScript](https://img.shields.io/badge/JavaScript-C81B34?style=for-the-badge&logo=javascript&logoColor=060606)
 
 </div>
 
@@ -64,10 +64,10 @@ Website profil personal dengan tema **hitam-violet gothic** — hero section, ab
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ChyoeL&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=E0AAFF&icon_color=C77DFF&text_color=ffffff" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChyoeL&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=E0AAFF&text_color=ffffff" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ChyoeL&show_icons=true&theme=radical&hide_border=true&bg_color=060606&title_color=F5F5F5&icon_color=A01428&text_color=B5B5B5" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChyoeL&layout=compact&theme=radical&hide_border=true&bg_color=060606&title_color=F5F5F5&text_color=B5B5B5" />
 
-<img src="https://streak-stats.demolab.com?user=ChyoeL&theme=radical&hide_border=true&background=0D0221&stroke=8A2BE2&ring=C77DFF&fire=E0AAFF&currStreakLabel=E0AAFF" />
+<img src="https://streak-stats.demolab.com?user=ChyoeL&theme=radical&hide_border=true&background=060606&stroke=A01428&ring=C81B34&fire=A01428&currStreakLabel=F5F5F5" />
 
 </div>
 
@@ -77,8 +77,8 @@ Website profil personal dengan tema **hitam-violet gothic** — hero section, ab
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-Send%20a%20message-8A2BE2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
+[![Discord](https://img.shields.io/badge/Discord-Send%20a%20message-A01428?style=for-the-badge&logo=discord&logoColor=F5F5F5)](https://discord.com/users/YOUR_DISCORD_ID)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,50:3c096c,100:0d0221&height=100&section=footer" width="100%"/>
+— *forged in darkness, coded in violet* 🕯️
