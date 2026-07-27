@@ -64,8 +64,7 @@ Website profil personal dengan tema **hitam-violet gothic** — hero section, ab
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ChyoeL&show_icons=true&theme=radical&hide_border=true&bg_color=060606&title_color=F5F5F5&icon_color=A01428&text_color=B5B5B5" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChyoeL&layout=compact&theme=radical&hide_border=true&bg_color=060606&title_color=F5F5F5&text_color=B5B5B5" />
+<img src="stats-card.svg" width="420"/>
 
 <img src="https://streak-stats.demolab.com?user=ChyoeL&theme=radical&hide_border=true&background=060606&stroke=A01428&ring=C81B34&fire=A01428&currStreakLabel=F5F5F5" />
 
